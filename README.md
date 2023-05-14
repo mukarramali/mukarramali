@@ -28,9 +28,8 @@
 
 More on [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mukarram_ali)
 
-Last Edited on: 14th May, 23
-
 ## Things that Matter
+Last Edited on: 14th May, 23
 
 - Unit test shared components, modules and the crucial business logics
 - Keep a disaster recovery for everything you create
