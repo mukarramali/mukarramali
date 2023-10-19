@@ -23,6 +23,7 @@
 
 ## Blog Posts
 
+- [Abstracting Kubernetes with Helm Library Chart](https://medium.com/schmiedeone/abstracting-kubernetes-with-helm-library-chart-4da85c3be8f5)
 - [Avoid using Redux with Realm: Move to a thinner data layer (React Native)](https://medium.com/schmiedeone/avoid-using-redux-with-realm-move-to-a-thinner-data-layer-react-native-8e80cc7b07b3) - Feb 20, 2022
 - [i18n routes in Static Sites using NextJS](https://medium.com/schmiedeone/i18n-routes-in-static-sites-using-nextjs-b6a547477bb1) - Aug 20, 2021
 
