@@ -2,21 +2,19 @@
 
 | Type               | Data |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages              | TypeScript, Ruby, Golang, Java, JavaScript |
-| Tools / Platforms      | Docker , Kubernetes , Terraform , Helm  , Apollo-GraphQL , Postman |
-| Frameworks / Libraries | NestJS  , GraphQL , Next JS , React , Rails , Apache Thrift , Jest , Testing-Library , React Native , Redux , Ethereum , Express.js , MUI , NodeJS , RabbitMQ , Spring , Storybook |
-| Databases and ORMs     | MicrosoftSQLServer , MongoDB , MySQL , Realm , Redis , Prisma , Sequelize |
-| CI / CD                | Azure Pipelines  , GitHub Actions , CircleCI |
-| Hosting/SaaS           | Azure , AWS , Github Pages , Heroku , Netlify , Vercel |
-| Cloud Services         | Azure AD B2C , Azure App Services , Azure MSSQL Server , Azure Frontdoor and CDN Profiles , Azure Blob Storage , Azure App Insights , Azure Function App , Azure Key Vault , Azure Kubernetes Cluster , Azure Container Registry , AWS RDS , AWS EC2 , AWS ECS , AWS S3 , Amazon MQ , Amazon SQS , AWS ECR , AWS Lambda , AWS Cloudwatch , AWS IAM , Docker Hub , MongoDB |
+| Languages              | TypeScript, Golang, Ruby, Java, JavaScript |
+| Tools / Platforms      | Docker , Kubernetes , Terraform , Helm  , GraphQL |
+| Frameworks / Libraries | NestJS  , GraphQL , Next JS , React , Rails , Apache Thrift |
+| Databases and ORMs     | Postgres , MongoDB , MySQL , Redis, Realm , Prisma , Gorm |
+| CI / CD                | Azure Pipelines , GitHub Actions , CircleCI |
+| Hosting/SaaS           | Azure , AWS |
+| Cloud Services         | Azure AD B2C , Azure App Services , Azure Frontdoor and CDN Profiles , Azure App Insights , Azure Event Bus, Azure Kubernetes Cluster , AWS RDS , AWS ECS , Amazon MQ , Amazon SQS, AWS Lambda , AWS Cloudwatch , AWS IAM |
 | Reach Me               | [Gmail ](mailto:mukarram.ali89@gmail.com), [Linkedin](https://www.linkedin.com/in/mukkuali/) |
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on an image compression service
-- 🌱 I’m currently learning golang, NestJS, Kubernetes
-- 👯 I’m looking to collaborate on open source dev tools
-- 🤔 I’m looking for help with 3d models
+- 🔭 I’m currently working on an [image compression service](https://github.com/mukarramali/imagestack)
+- 🌱 I’m currently learning golang
 - 💬 Ask me about Architecture designing, Testing
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I still cannot write css from scratch
