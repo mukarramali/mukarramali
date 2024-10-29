@@ -33,7 +33,7 @@ More on [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=me
 ## Things that Matter
 Last Edited on: 14th May, 23
 
-- Unit test shared components, modules and the crucial business logics
+- Your tests are your specs to design a piece of code, let it navigate your implementation
 - Keep a disaster recovery for everything you create
 - Avoid over engineering, not everything that looks cool needs to be picked up
-- Consider your code a product and your team devs as your clients, sell it with your code readability
+- Consider your code a product and your team devs as your clients, sell it with your code readability, maintainability
